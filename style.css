@@ -1,0 +1,29 @@
+form {
+    max-width: 400px; /* Ancho máximo del formulario */
+    margin: 0 auto; /* Centrar el formulario en la página */
+    padding: 20px; /* Espaciado interior */
+    background-color: #4f5df3; /* Color de fondo */
+    border: 1px solid #f5f4f9; /* Borde del formulario */
+    border-radius: 5px; /* Bordes redondeados */
+  }
+  
+  label {
+    display: block; /* Mostrar las etiquetas en una línea separada */
+    font-weight: bold; /* Texto en negrita */
+    margin-bottom: 5px; /* Espaciado inferior */
+  }
+  
+
+  input[type="text"] {
+    width: 100%; /* Ancho completo del campo de entrada */
+    padding: 10px; /* Espaciado interior */
+    margin-bottom: 10px; /* Espaciado inferior */
+    border: 1px solid #f7f0f0; /* Borde del campo */
+    border-radius: 3px; /* Bordes redondeados */
+    font-size: 16px; /* Tamaño de fuente */
+  }
+  
+  
+
+
+  
